@@ -20,8 +20,8 @@ Define a new Drinks Cabinet Object
 ```bash
 $drinksCabinet = new DrinksCabinet(3, 20);
 
-// Param 1 => Number of shelves
-// Param 2 => Capacity of the shelf
+#Param 1 => Number of shelves
+#Param 2 => Capacity of the shelf
 ```
 
 Define a new item
@@ -30,8 +30,8 @@ Define a new item
 
 $item = new Item(1, "Cola 33cl");
 
-// Param 1 => ID
-// Param 2 => Name
+#Param 1 => ID
+#Param 2 => Name
 ```
 
 Add new item to drinks cabinet
