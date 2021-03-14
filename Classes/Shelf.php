@@ -124,7 +124,7 @@ class Shelf
     /**
      * @return int
      */
-    public function getTotalItems()
+    public function getTotalItems() : int
     {
         return $this->totalItems;
     }
@@ -132,13 +132,14 @@ class Shelf
     /**
      * @return int
      */
-    public function getStatus()
+    public function getStatus() : int
     {
         return $this->status;
     }
 
     /**
      * @param int $status
+     * @return void
      */
     public function setStatus($status)
     {

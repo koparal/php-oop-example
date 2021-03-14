@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a25a37af-a344-4bf7-9e1c-1d27d00ff4a4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Classes/Shelf.php" beforeDir="false" afterPath="$PROJECT_DIR$/Classes/Shelf.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1piuQ4aFxaE9LwauSzPrh2NKn6u" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\xampp\htdocs\interspire\gg" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\xampp\htdocs\interspire\gg\classes" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a25a37af-a344-4bf7-9e1c-1d27d00ff4a4" name="Default Changelist" comment="" />
+      <created>1615678212761</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615678212761</updated>
+      <workItem from="1615678217910" duration="168000" />
+      <workItem from="1615707023518" duration="20892000" />
+    </task>
+    <task id="LOCAL-00001" summary="updates">
+      <created>1615733630743</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1615733630743</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="updates" />
+    <option name="LAST_COMMIT_MESSAGE" value="updates" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="485" y="84" key="#com.intellij.ide.util.MemberChooser" timestamp="1615727198105">
+      <screen x="0" y="0" width="1360" height="738" />
+    </state>
+    <state x="485" y="84" key="#com.intellij.ide.util.MemberChooser/1360.0.1366.738/0.0.1360.738@0.0.1360.738" timestamp="1615727198105" />
+    <state x="260" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1615727370322">
+      <screen x="0" y="0" width="1360" height="738" />
+    </state>
+    <state x="260" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/1360.0.1366.738/0.0.1360.738@0.0.1360.738" timestamp="1615727370322" />
+    <state x="305" y="0" key="CommitChangelistDialog2" timestamp="1615733628575">
+      <screen x="0" y="0" width="1360" height="738" />
+    </state>
+    <state x="305" y="0" key="CommitChangelistDialog2/1360.0.1366.738/0.0.1360.738@0.0.1360.738" timestamp="1615733628575" />
+    <state x="460" y="123" key="FileChooserDialogImpl" timestamp="1615733969815">
+      <screen x="0" y="0" width="1360" height="738" />
+    </state>
+    <state x="460" y="123" key="FileChooserDialogImpl/1360.0.1366.738/0.0.1360.738@0.0.1360.738" timestamp="1615733969815" />
+    <state x="272" y="97" key="Vcs.Push.Dialog.v2" timestamp="1615733633244">
+      <screen x="0" y="0" width="1360" height="738" />
+    </state>
+    <state x="272" y="97" key="Vcs.Push.Dialog.v2/1360.0.1366.738/0.0.1360.738@0.0.1360.738" timestamp="1615733633244" />
+    <state x="343" y="59" width="672" height="678" key="search.everywhere.popup" timestamp="1615719519514">
+      <screen x="0" y="0" width="1360" height="738" />
+    </state>
+    <state x="343" y="59" width="672" height="678" key="search.everywhere.popup/1360.0.1366.738/0.0.1360.738@0.0.1360.738" timestamp="1615719519514" />
+  </component>
+</project>
